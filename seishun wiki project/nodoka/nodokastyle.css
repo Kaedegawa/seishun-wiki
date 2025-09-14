@@ -1,0 +1,56 @@
+body {
+  background-color: orange;
+}
+p {
+  color: black;
+  font-size: 30px;
+  font-weight: normal; /* normal, bold */
+  font-style: normal; /* normal, italic */
+  text-align: center; /* left, right, center, justify */
+  text-decoration: none; /* none, underline, line-through */
+  background-color: gold;
+}
+
+div {
+  width: 300px;
+  height: 50px;
+  padding: 60px;   /* inside spacing */
+  margin: 20px;    /* outside spacing */
+  border: 10px solid black;
+  text-align: center;
+}
+
+h1 {
+	text-align:center;
+	font-size:50px;
+}
+
+h2 {
+	text-align:center;
+	font-size:50px;
+	
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body{
+	background-image: url("nodoka_ending.png");
+	background-size: cover;
+}
+
+.DivOne {
+  background-color: white;
+  text-align: center;
+  font-size: 50px
+  width: 50%;
+  margin: 0 auto;
+}
+
+em{
+	font-size: 20px
+}

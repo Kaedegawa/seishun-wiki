@@ -1,0 +1,58 @@
+body {
+  background-color: orange;
+}
+p {
+  color: black;
+  font-size: 35px;
+  font-weight: normal; /* normal, bold */
+  font-style: normal; /* normal, italic */
+  text-align: center; /* left, right, center, justify */
+  text-decoration: none; /* none, underline, line-through */
+  background-color: AntiqueWhite;
+}
+
+div {
+  width: 300px;
+  height: 100px;
+  padding: 60px;   /* inside spacing */
+  margin: 20px;    /* outside spacing */
+  border: 1px solid black;
+  text-align: center;
+}
+
+h1 {
+	text-align:center;
+	font-size:50px;
+	color: black;
+}
+
+h2 {
+	text-align:center;
+	font-size:50px;
+	color: black;
+	
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body{
+	background-image: url("kaede_beach2.png");
+	background-size: cover;
+}
+
+.DivOne {
+  background-color: pink;
+  text-align: center;
+  font-size: 1px
+  width: 50%;
+  margin: 0 auto;
+}
+
+em{
+	font-size: 25px
+}
